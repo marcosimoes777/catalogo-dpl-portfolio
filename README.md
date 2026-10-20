@@ -12,9 +12,9 @@ Um exemplo do fluxo: buscar um capacete, escolher a cor, definir a quantidade e 
 
 ## Veja o fluxo no vídeo
 
-[![Assistir à demonstração do Catálogo DPL](assets/brag.jpg)](assets/brag.mp4)
+[![Baixar demonstração do Catálogo DPL em vídeo](assets/brag.jpg)](https://github.com/marcosimoes777/catalogo-dpl-portfolio/raw/refs/heads/main/assets/brag.mp4)
 
-**▶ Clique na imagem para abrir a demonstração em vídeo.**
+**▶ Clique na imagem para baixar a demonstração em vídeo (MP4 · 20 s).**
 
 *Demonstração do lançamento, em outubro de 2026: busca, escolha de variante, carrinho, classificação da compra e PDF.*
 
