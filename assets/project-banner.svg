@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Catálogo DPL — catálogo e planejamento de materiais">
+  <rect width="1200" height="300" rx="24" fill="#006b7c"/>
+  <path d="M900 0h300v300H760z" fill="#075563"/>
+  <rect x="930" y="75" width="75" height="66" rx="12" fill="#e8f4f5"/>
+  <rect x="1020" y="75" width="75" height="66" rx="12" fill="#e8f4f5" opacity=".65"/>
+  <rect x="930" y="156" width="75" height="66" rx="12" fill="#e8f4f5" opacity=".65"/>
+  <rect x="1020" y="156" width="75" height="66" rx="12" fill="#ed9d50"/>
+  <text x="64" y="79" fill="#c1e8eb" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="3">PROJETO DE PORTFÓLIO</text>
+  <text x="60" y="163" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="68" font-weight="700">Catálogo DPL</text>
+  <text x="64" y="219" fill="#d9edef" font-family="Segoe UI,Arial,sans-serif" font-size="26">Materiais de campo. Pedidos com contexto.</text>
+  <rect x="64" y="253" width="135" height="4" rx="2" fill="#ed9d50"/>
+</svg>
